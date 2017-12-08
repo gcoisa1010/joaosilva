@@ -1,0 +1,20 @@
+body {
+    font-family: "Crimson Text","Times New Roman", serif;
+    background-color: #F2FFFC;
+    font-size: 20px;
+}
+main h1{
+    font-size: 40px;
+    background-color:rgb(120, 30, 60);
+    color:#faffff;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+} 
+h2{
+    font-size: 25px;
+    font-family:"Arial";
+}
+p{
+    text-align: justify;
+    font-family: "Times New Roman"serif;
+}
